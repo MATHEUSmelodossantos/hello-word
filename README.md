@@ -1,3 +1,5 @@
 # hello-word
  
-aprendendo a mecher no git e github!
+Aprendendo a mecher no git e github!
+
+Esse e o tal do github!
